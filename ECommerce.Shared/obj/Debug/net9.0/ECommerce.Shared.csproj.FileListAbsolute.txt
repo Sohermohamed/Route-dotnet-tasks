@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\bin\Debug\net9.0\ECommerce.Shared.deps.json
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\bin\Debug\net9.0\ECommerce.Shared.dll
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\bin\Debug\net9.0\ECommerce.Shared.pdb
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.sourcelink.json
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.dll
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\refint\ECommerce.Shared.dll
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\ECommerce.Shared.pdb
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.Shared\obj\Debug\net9.0\ref\ECommerce.Shared.dll

@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\bin\Debug\net9.0\ECommerce.Abstraction.deps.json
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\bin\Debug\net9.0\ECommerce.Abstraction.dll
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\bin\Debug\net9.0\ECommerce.Abstraction.pdb
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\bin\Debug\net9.0\ECommerce.Shared.dll
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\bin\Debug\net9.0\ECommerce.Shared.pdb
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.sourcelink.json
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerc.7A892460.Up2Date
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.dll
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\refint\ECommerce.Abstraction.dll
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ECommerce.Abstraction.pdb
+C:\Users\Lenovo\source\repos\ECommerce.web\Core\ECommerce.Abstraction\obj\Debug\net9.0\ref\ECommerce.Abstraction.dll
