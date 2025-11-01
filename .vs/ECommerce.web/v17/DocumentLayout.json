@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5260344-5F6C-420F-BEAE-9CD0F3C2C6CE}|Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5260344-5F6C-420F-BEAE-9CD0F3C2C6CE}|Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj|solutionrelative:infrastructure\\ecommerce.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.service\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4E74E64-B6D8-4CCF-9DA5-7FD144450DB6}|ECommerce.web\\ECommerce.web.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4E74E64-B6D8-4CCF-9DA5-7FD144450DB6}|ECommerce.web\\ECommerce.web.csproj|solutionrelative:ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5260344-5F6C-420F-BEAE-9CD0F3C2C6CE}|Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.presentation\\ecommerce.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5260344-5F6C-420F-BEAE-9CD0F3C2C6CE}|Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj|solutionrelative:infrastructure\\ecommerce.presentation\\ecommerce.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.persistence\\ecommerce.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\ecommerce.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64D853-11E5-4135-87F7-2074134A5E70}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.abstraction\\iservices\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64D853-11E5-4135-87F7-2074134A5E70}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\iservices\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64D853-11E5-4135-87F7-2074134A5E70}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.abstraction\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA64D853-11E5-4135-87F7-2074134A5E70}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.service\\mappingprofile\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\mappingprofile\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA64D853-11E5-4135-87F7-2074134A5E70}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.abstraction\\ecommerce.abstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA64D853-11E5-4135-87F7-2074134A5E70}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\ecommerce.abstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1B90E3-5D0E-4BFF-9D33-05889AF9D814}|ECommerce.Shared\\ECommerce.Shared.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\ecommerce.shared\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1B90E3-5D0E-4BFF-9D33-05889AF9D814}|ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:ecommerce.shared\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1B90E3-5D0E-4BFF-9D33-05889AF9D814}|ECommerce.Shared\\ECommerce.Shared.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\ecommerce.shared\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1B90E3-5D0E-4BFF-9D33-05889AF9D814}|ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:ecommerce.shared\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1B90E3-5D0E-4BFF-9D33-05889AF9D814}|ECommerce.Shared\\ECommerce.Shared.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\ecommerce.shared\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1B90E3-5D0E-4BFF-9D33-05889AF9D814}|ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:ecommerce.shared\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.persistence\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE51D948-E492-440B-9741-78724C3ED4D3}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.domain\\contracts\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE51D948-E492-440B-9741-78724C3ED4D3}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\contracts\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.persistence\\repos\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\repos\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE51D948-E492-440B-9741-78724C3ED4D3}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.domain\\contracts\\pepos\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE51D948-E492-440B-9741-78724C3ED4D3}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\contracts\\pepos\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.persistence\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.persistence\\dataseed\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +83,24 @@
       "RelativeMoniker": "D:0:0:{FE51D948-E492-440B-9741-78724C3ED4D3}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\contracts\\seeds\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.service\\specifications\\basespecifiications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\specifications\\basespecifiications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE51D948-E492-440B-9741-78724C3ED4D3}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.domain\\contracts\\specifications\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE51D948-E492-440B-9741-78724C3ED4D3}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\contracts\\specifications\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.service\\ecommerce.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B3994F9-9202-42C7-AE17-3F084182C2CD}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\ecommerce.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4E74E64-B6D8-4CCF-9DA5-7FD144450DB6}|ECommerce.web\\ECommerce.web.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D4E74E64-B6D8-4CCF-9DA5-7FD144450DB6}|ECommerce.web\\ECommerce.web.csproj|solutionrelative:ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.persistence\\ecommerce.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\ecommerce.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.persistence\\contexts\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\contexts\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\infrastructure\\ecommerce.persistence\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF705DF6-FD34-4DF1-AD76-5AB65CAB6FD0}|Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE51D948-E492-440B-9741-78724C3ED4D3}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\lenovo\\source\\repos\\ecommerce.web\\core\\ecommerce.domain\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,8 +130,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 374,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T19:20:01.186Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -78,76 +163,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataSeeding.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\DataSeed\\DataSeeding.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\DataSeed\\DataSeeding.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\DataSeed\\DataSeeding.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\DataSeed\\DataSeeding.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T19:49:52.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IDataSeeding.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\Seeds\\IDataSeeding.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\Seeds\\IDataSeeding.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\Seeds\\IDataSeeding.cs",
-              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\Seeds\\IDataSeeding.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T19:47:10.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20251024152434_ProductModule.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251024152434_ProductModule.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Migrations\\20251024152434_ProductModule.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251024152434_ProductModule.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Migrations\\20251024152434_ProductModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T15:24:34.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.web\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerce.web\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.web\\Program.cs",
-              "RelativeToolTip": "ECommerce.web\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T15:03:08.45Z",
+              "DocumentIndex": 3,
+              "Title": "ECommerce.Presentation",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Presentation\\ECommerce.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T19:15:38.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.web\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerce.web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.web\\appsettings.json",
-              "RelativeToolTip": "ECommerce.web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T15:01:29.4Z"
+              "DocumentIndex": 1,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:36:44.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfigurations.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfigurations.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfigurations.cs",
-              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfigurations.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Abstraction\\IServices\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\IServices\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Abstraction\\IServices\\IServiceManager.cs",
+              "RelativeToolTip": "Core\\ECommerce.Abstraction\\IServices\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:50:58.504Z"
+              "WhenOpened": "2025-10-31T17:33:00.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,25 +208,287 @@
               "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
               "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-24T14:44:30.442Z"
+              "WhenOpened": "2025-10-24T14:44:30.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.web\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.web\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.web\\Program.cs",
+              "RelativeToolTip": "ECommerce.web\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:03:08.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\MappingProfile\\ProjectProfile.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\MappingProfile\\ProjectProfile.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\MappingProfile\\ProjectProfile.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\MappingProfile\\ProjectProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:19:42.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ECommerce.Abstraction",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+              "RelativeToolTip": "Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T17:32:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\Service\\ProductService.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:45:33.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Abstraction\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Abstraction\\Services\\IProductService.cs",
+              "RelativeToolTip": "Core\\ECommerce.Abstraction\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:41:29.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.Shared\\Dtos\\BrandDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Shared\\Dtos\\BrandDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.Shared\\Dtos\\BrandDto.cs",
+              "RelativeToolTip": "ECommerce.Shared\\Dtos\\BrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:39:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.Shared\\Dtos\\TypeDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Shared\\Dtos\\TypeDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.Shared\\Dtos\\TypeDto.cs",
+              "RelativeToolTip": "ECommerce.Shared\\Dtos\\TypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:38:42.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.Shared\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Shared\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.Shared\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "ECommerce.Shared\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:35:16.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\UOW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\UOW\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\UOW\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\UOW\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:13:16.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\UOW\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\UOW\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\UOW\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\UOW\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:04:24.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Repos\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Repos\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Repos\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Repos\\GenericRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:38:20.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\Pepos\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\Pepos\\IGenaricRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\Pepos\\IGenaricRepository.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\Pepos\\IGenaricRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:50:23.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\DataSeed\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\DataSeed\\DataSeeding.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\DataSeed\\DataSeeding.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\DataSeed\\DataSeeding.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:49:52.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\Seeds\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\Seeds\\IDataSeeding.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\Seeds\\IDataSeeding.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\Seeds\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T19:47:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseSpecifiications.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\Specifications\\BaseSpecifiications.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Specifications\\BaseSpecifiications.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\Specifications\\BaseSpecifiications.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Specifications\\BaseSpecifiications.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:57:54.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251024152434_ProductModule.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251024152434_ProductModule.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Migrations\\20251024152434_ProductModule.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Migrations\\20251024152434_ProductModule.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Migrations\\20251024152434_ProductModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T15:24:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfigurations.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfigurations.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfigurations.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Configurations\\ProductConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T14:50:58.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\Specifications\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\Specifications\\ISpecifications.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Contracts\\Specifications\\ISpecifications.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\Specifications\\ISpecifications.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:50:38.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ECommerce.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\ECommerce.Service.csproj",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\ECommerce.Service.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Service\\ECommerce.Service.csproj",
+              "RelativeToolTip": "Core\\ECommerce.Service\\ECommerce.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T17:56:17.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.web\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce.web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\ECommerce.web\\appsettings.json",
+              "RelativeToolTip": "ECommerce.web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T15:01:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "StoreDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Contexts\\StoreDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ECommerce.Persistence\\Contexts\\StoreDbContext.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Infrastructure\\ECommerce.Persistence\\Contexts\\StoreDbContext.cs",
               "RelativeToolTip": "Infrastructure\\ECommerce.Persistence\\Contexts\\StoreDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:47:14.683Z"
+              "WhenOpened": "2025-10-24T14:47:14.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "ProductType.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Models\\ProductType.cs",
               "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Models\\ProductType.cs",
@@ -183,11 +496,12 @@
               "RelativeToolTip": "Core\\ECommerce.Domain\\Models\\ProductType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:39:44.521Z"
+              "WhenOpened": "2025-10-24T14:39:44.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 25,
               "Title": "ProductBrand.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Models\\ProductBrand.cs",
               "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Models\\ProductBrand.cs",
@@ -195,11 +509,12 @@
               "RelativeToolTip": "Core\\ECommerce.Domain\\Models\\ProductBrand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:39:06.637Z"
+              "WhenOpened": "2025-10-24T14:39:06.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Models\\Products\\Product.cs",
               "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Models\\Products\\Product.cs",
@@ -207,11 +522,12 @@
               "RelativeToolTip": "Core\\ECommerce.Domain\\Models\\Products\\Product.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAIwA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:37:05.328Z"
+              "WhenOpened": "2025-10-24T14:37:05.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 28,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ECommerce.web\\Core\\ECommerce.Domain\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Models\\BaseEntity.cs",
@@ -219,7 +535,8 @@
               "RelativeToolTip": "Core\\ECommerce.Domain\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T14:35:45.863Z"
+              "WhenOpened": "2025-10-24T14:35:45.863Z",
+              "EditorCaption": ""
             }
           ]
         },

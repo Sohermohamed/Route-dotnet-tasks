@@ -175,3 +175,4 @@ C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.web\obj\Debug\net9.0\refint
 C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.web\obj\Debug\net9.0\ECommerce.web.pdb
 C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.web\obj\Debug\net9.0\ECommerce.web.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.web\obj\Debug\net9.0\ref\ECommerce.web.dll
+C:\Users\Lenovo\source\repos\ECommerce.web\ECommerce.web\bin\Debug\net9.0\AutoMapper.dll

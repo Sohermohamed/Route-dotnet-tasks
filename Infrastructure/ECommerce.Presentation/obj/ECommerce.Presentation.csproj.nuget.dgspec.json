@@ -193,6 +193,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -502,6 +508,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
