@@ -1,0 +1,576 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\ECommerce.csproj": {}
+  },
+  "projects": {
+    "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+        "projectName": "ECommerce.Abstraction",
+        "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
+        "outputPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alyaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+                "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj",
+        "projectName": "ECommerce.Domain",
+        "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj",
+        "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
+        "outputPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alyaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj",
+        "projectName": "ECommerce.Service",
+        "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj",
+        "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
+        "outputPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alyaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
+                "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
+              },
+              "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+                "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
+        "projectName": "ECommerce.Shared",
+        "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce.Shared\\ECommerce.Shared.csproj",
+        "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
+        "outputPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alyaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\ECommerce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\ECommerce.csproj",
+        "projectName": "ECommerce",
+        "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\ECommerce.csproj",
+        "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
+        "outputPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alyaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj": {
+                "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj"
+              },
+              "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj": {
+                "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
+        "projectName": "ECommerce.Persentation",
+        "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj",
+        "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
+        "outputPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alyaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj": {
+                "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
+        "projectName": "ECommerce.Persistence",
+        "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj",
+        "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
+        "outputPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\InfraStructure\\ECommerce.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alyaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj": {
+                "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\Core\\ECommerce.Service\\ECommerce.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1482 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "images/Products/CheesyVegetableLasagna.277d94tvkp.png",
+      "AssetFile": "images/Products/CheesyVegetableLasagna.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "277d94tvkp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/CheesyVegetableLasagna.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CheesyVegetableLasagna.png",
+      "AssetFile": "images/Products/CheesyVegetableLasagna.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenMarsala.j9gf2gpbng.png",
+      "AssetFile": "images/Products/ChickenMarsala.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j9gf2gpbng"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ChickenMarsala.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenMarsala.png",
+      "AssetFile": "images/Products/ChickenMarsala.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenTeriyakiNoodles.1r1eq4pg3a.png",
+      "AssetFile": "images/Products/ChickenTeriyakiNoodles.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1r1eq4pg3a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ChickenTeriyakiNoodles.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenTeriyakiNoodles.png",
+      "AssetFile": "images/Products/ChickenTeriyakiNoodles.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenTikkaMasala.jpg",
+      "AssetFile": "images/Products/ChickenTikkaMasala.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenTikkaMasala.xurfn7rtfc.jpg",
+      "AssetFile": "images/Products/ChickenTikkaMasala.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xurfn7rtfc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ChickenTikkaMasala.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/Congee.6obkfgjvl3.png",
+      "AssetFile": "images/Products/Congee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6obkfgjvl3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/Congee.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/Congee.png",
+      "AssetFile": "images/Products/Congee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CreamyGochujangTortellini.m6v6958kfh.png",
+      "AssetFile": "images/Products/CreamyGochujangTortellini.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m6v6958kfh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/CreamyGochujangTortellini.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CreamyGochujangTortellini.png",
+      "AssetFile": "images/Products/CreamyGochujangTortellini.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CrispyVegetablePakoras.orbj85bm9q.png",
+      "AssetFile": "images/Products/CrispyVegetablePakoras.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orbj85bm9q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/CrispyVegetablePakoras.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CrispyVegetablePakoras.png",
+      "AssetFile": "images/Products/CrispyVegetablePakoras.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/HaluskiNoodles.5p0dqi4iia.png",
+      "AssetFile": "images/Products/HaluskiNoodles.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5p0dqi4iia"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/HaluskiNoodles.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/HaluskiNoodles.png",
+      "AssetFile": "images/Products/HaluskiNoodles.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/HeartyVegetableLasagna.png",
+      "AssetFile": "images/Products/HeartyVegetableLasagna.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/HeartyVegetableLasagna.rahc9pxo20.png",
+      "AssetFile": "images/Products/HeartyVegetableLasagna.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rahc9pxo20"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/HeartyVegetableLasagna.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ItalianChickenMarinade.e7i10m8tk3.png",
+      "AssetFile": "images/Products/ItalianChickenMarinade.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7i10m8tk3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ItalianChickenMarinade.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ItalianChickenMarinade.png",
+      "AssetFile": "images/Products/ItalianChickenMarinade.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ItalianWeddingSoup.8o31o71bw8.png",
+      "AssetFile": "images/Products/ItalianWeddingSoup.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8o31o71bw8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ItalianWeddingSoup.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ItalianWeddingSoup.png",
+      "AssetFile": "images/Products/ItalianWeddingSoup.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/Kulfi.fyiuz6ago0.png",
+      "AssetFile": "images/Products/Kulfi.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fyiuz6ago0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/Kulfi.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/Kulfi.png",
+      "AssetFile": "images/Products/Kulfi.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/PastaSalad.2qlcafpc0n.png",
+      "AssetFile": "images/Products/PastaSalad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2qlcafpc0n"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/PastaSalad.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/PastaSalad.png",
+      "AssetFile": "images/Products/PastaSalad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/PepperPasta.kg3z3o7bg8.png",
+      "AssetFile": "images/Products/PepperPasta.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "854706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kg3z3o7bg8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/PepperPasta.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/PepperPasta.png",
+      "AssetFile": "images/Products/PepperPasta.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "854706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ShrimpEggFooYoung.msr8fm8kz0.png",
+      "AssetFile": "images/Products/ShrimpEggFooYoung.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "msr8fm8kz0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ShrimpEggFooYoung.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ShrimpEggFooYoung.png",
+      "AssetFile": "images/Products/ShrimpEggFooYoung.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/TandooriChicken.0akmarr0bz.png",
+      "AssetFile": "images/Products/TandooriChicken.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "508720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0akmarr0bz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/TandooriChicken.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/TandooriChicken.png",
+      "AssetFile": "images/Products/TandooriChicken.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "508720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/VegetarianKorma.7n9bvio4t8.png",
+      "AssetFile": "images/Products/VegetarianKorma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1192584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7n9bvio4t8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/VegetarianKorma.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/VegetarianKorma.png",
+      "AssetFile": "images/Products/VegetarianKorma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1192584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/VegetarianRefriedBeans.png",
+      "AssetFile": "images/Products/VegetarianRefriedBeans.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/VegetarianRefriedBeans.uazi5tssqj.png",
+      "AssetFile": "images/Products/VegetarianRefriedBeans.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uazi5tssqj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/VegetarianRefriedBeans.png"
+        }
+      ]
+    }
+  ]
+}

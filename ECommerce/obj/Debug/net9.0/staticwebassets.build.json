@@ -1,0 +1,1876 @@
+{
+  "Version": 1,
+  "Hash": "+amC88RBCJHlrYxlAQpjOkWRq9+yyxNmOQm3ARyakFs=",
+  "Source": "ECommerce.Web",
+  "BasePath": "_content/ECommerce.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerce.Web\\wwwroot",
+      "Source": "ECommerce.Web",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/CheesyVegetableLasagna#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "277d94tvkp",
+      "Integrity": "UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\CheesyVegetableLasagna.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/ChickenMarsala#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j9gf2gpbng",
+      "Integrity": "F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\ChickenMarsala.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/ChickenTeriyakiNoodles#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1r1eq4pg3a",
+      "Integrity": "o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/ChickenTikkaMasala#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xurfn7rtfc",
+      "Integrity": "N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\ChickenTikkaMasala.jpg"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/Congee#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6obkfgjvl3",
+      "Integrity": "6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\Congee.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/CreamyGochujangTortellini#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m6v6958kfh",
+      "Integrity": "XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\CreamyGochujangTortellini.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/CrispyVegetablePakoras#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "orbj85bm9q",
+      "Integrity": "VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\CrispyVegetablePakoras.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/HaluskiNoodles#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5p0dqi4iia",
+      "Integrity": "NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\HaluskiNoodles.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/HeartyVegetableLasagna#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rahc9pxo20",
+      "Integrity": "k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\HeartyVegetableLasagna.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/ItalianChickenMarinade#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7i10m8tk3",
+      "Integrity": "auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\ItalianChickenMarinade.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/ItalianWeddingSoup#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8o31o71bw8",
+      "Integrity": "2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\ItalianWeddingSoup.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/Kulfi#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fyiuz6ago0",
+      "Integrity": "icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\Kulfi.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/PastaSalad#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2qlcafpc0n",
+      "Integrity": "BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\PastaSalad.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/PepperPasta#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kg3z3o7bg8",
+      "Integrity": "RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\PepperPasta.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/ShrimpEggFooYoung#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "msr8fm8kz0",
+      "Integrity": "tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\ShrimpEggFooYoung.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/TandooriChicken#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0akmarr0bz",
+      "Integrity": "KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\TandooriChicken.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/VegetarianKorma#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7n9bvio4t8",
+      "Integrity": "k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\VegetarianKorma.png"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
+      "SourceId": "ECommerce.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Web",
+      "RelativePath": "images/Products/VegetarianRefriedBeans#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uazi5tssqj",
+      "Integrity": "NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\VegetarianRefriedBeans.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/Products/CheesyVegetableLasagna.277d94tvkp.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "277d94tvkp"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/CheesyVegetableLasagna.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CheesyVegetableLasagna.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CheesyVegetableLasagna.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtF+W7wyFOzO0VQ/+viac9wHc8AQFnmrfraDj9aCUck="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenMarsala.j9gf2gpbng.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j9gf2gpbng"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ChickenMarsala.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenMarsala.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenMarsala.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F9LEXckLS5A1J9CnKJlnvPPXTo4YzrJegjwl4ZRIBl8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenTeriyakiNoodles.1r1eq4pg3a.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1r1eq4pg3a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ChickenTeriyakiNoodles.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenTeriyakiNoodles.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTeriyakiNoodles.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4WJ+ibl/WfaGi6lgorsjEKBGVosfRdCJ+JXq+xGD48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenTikkaMasala.jpg",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ChickenTikkaMasala.xurfn7rtfc.jpg",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ChickenTikkaMasala.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xurfn7rtfc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ChickenTikkaMasala.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+IptZASATOvb0xx9LwELSoGChn8OpiNzrrLIi4EXfs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/Congee.6obkfgjvl3.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6obkfgjvl3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/Congee.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/Congee.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Congee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29716"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6uitpnC1BLi2rjJ/5GpO0E8irqfTFiOCDzKPLIuUuhk="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CreamyGochujangTortellini.m6v6958kfh.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m6v6958kfh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/CreamyGochujangTortellini.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CreamyGochujangTortellini.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CreamyGochujangTortellini.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XkAp89ZW560xZlvEhuxFO3mt7qa3toZ2AK/oa1XxnwU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CrispyVegetablePakoras.orbj85bm9q.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "orbj85bm9q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/CrispyVegetablePakoras.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/CrispyVegetablePakoras.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\CrispyVegetablePakoras.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VC5AjwmbqRt68fQsihf1EuSDAviUzshjN+Uhy1m+Ko8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/HaluskiNoodles.5p0dqi4iia.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5p0dqi4iia"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/HaluskiNoodles.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/HaluskiNoodles.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HaluskiNoodles.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1050666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NxmWPQ156cjX4jYqmChMpoI+OL5r+8RGO4vWNp7GJdA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/HeartyVegetableLasagna.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/HeartyVegetableLasagna.rahc9pxo20.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\HeartyVegetableLasagna.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rahc9pxo20"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/HeartyVegetableLasagna.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5+y74yOFC8IvRpnUncVnxP/WMTctv0anuNYy7SwFRY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ItalianChickenMarinade.e7i10m8tk3.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e7i10m8tk3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ItalianChickenMarinade.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ItalianChickenMarinade.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianChickenMarinade.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-auow7tFvWRQ2nz8lg4rirQ+pt74RRRMClDc4hqg9X48="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ItalianWeddingSoup.8o31o71bw8.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8o31o71bw8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ItalianWeddingSoup.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ItalianWeddingSoup.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ItalianWeddingSoup.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Cxe4Q7TZbhx4iieDRqCm696qiJSrxGn7xFRxfJOSik="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/Kulfi.fyiuz6ago0.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fyiuz6ago0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/Kulfi.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/Kulfi.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\Kulfi.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144806"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-icmG/W4SoTf/KmgmQ6zBIqjx3L6wJutxho76rxl20DQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/PastaSalad.2qlcafpc0n.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2qlcafpc0n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/PastaSalad.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/PastaSalad.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PastaSalad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BpHXirWLaVj4m31mNEK6LulXWCX6f9aYw5o3X1ld/j4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/PepperPasta.kg3z3o7bg8.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "854706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kg3z3o7bg8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/PepperPasta.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/PepperPasta.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\PepperPasta.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "854706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RG9bbXhD6PAdvoY7drWGt30Ht/5lo5cFatFguZRdm7A="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ShrimpEggFooYoung.msr8fm8kz0.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "msr8fm8kz0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/ShrimpEggFooYoung.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/ShrimpEggFooYoung.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\ShrimpEggFooYoung.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83807"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tkWJ8RVcg7ciRVqma5m4EG2qbpof108mIsr1CKaWhHA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/TandooriChicken.0akmarr0bz.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "508720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0akmarr0bz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/TandooriChicken.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/TandooriChicken.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\TandooriChicken.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "508720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KFY9bmxC6u86Ivyff764oENxtDKR0DNw8UNJRuj3iog="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/VegetarianKorma.7n9bvio4t8.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1192584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7n9bvio4t8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/VegetarianKorma.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/VegetarianKorma.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianKorma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1192584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k4whsXR6+IYDgIN67hrYyg8AXzEiqiFW5wveZ8+GvgA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/VegetarianRefriedBeans.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws="
+        }
+      ]
+    },
+    {
+      "Route": "images/Products/VegetarianRefriedBeans.uazi5tssqj.png",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\wwwroot\\images\\Products\\VegetarianRefriedBeans.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "169136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 13:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uazi5tssqj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Products/VegetarianRefriedBeans.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NvycooL3DfYDM2KgXQPAxSdCOokaiLpXnAnDykystws="
+        }
+      ]
+    }
+  ]
+}

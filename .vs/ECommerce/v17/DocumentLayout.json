@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|solutionrelative:infrastructure\\ecommerce.persentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\services\\servicesmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\servicesmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\mappingprofiles\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\mappingprofiles\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AAAF62-015E-4502-AD33-5A8E911567F9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.abstraction\\iservices\\iauthenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AAAF62-015E-4502-AD33-5A8E911567F9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\iservices\\iauthenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F08BEF-6643-4B20-899E-DF0AC4B104B5}|ECommerce.Shared\\ECommerce.Shared.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce.shared\\dto\u0027s\\identitydto\u0027s\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F08BEF-6643-4B20-899E-DF0AC4B104B5}|ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:ecommerce.shared\\dto\u0027s\\identitydto\u0027s\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.domain\\exceptions\\addressnotfoundexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\exceptions\\addressnotfoundexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 404,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesManger.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\ServicesManger.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\ServicesManger.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\ServicesManger.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\ServicesManger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:51:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "InfraStructure\\ECommerce.Persentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwDQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:44:30.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectProfile.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\MappingProfiles\\ProjectProfile.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\MappingProfiles\\ProjectProfile.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\MappingProfiles\\ProjectProfile.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\MappingProfiles\\ProjectProfile.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:40:47.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressNotFoundExceptions.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Exceptions\\AddressNotFoundExceptions.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Exceptions\\AddressNotFoundExceptions.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Exceptions\\AddressNotFoundExceptions.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Exceptions\\AddressNotFoundExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:17:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce.Shared\\DTO\u0027s\\IdentityDto\u0027s\\AddressDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Shared\\DTO\u0027s\\IdentityDto\u0027s\\AddressDto.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce.Shared\\DTO\u0027s\\IdentityDto\u0027s\\AddressDto.cs",
+              "RelativeToolTip": "ECommerce.Shared\\DTO\u0027s\\IdentityDto\u0027s\\AddressDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:01:43.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthenticationServices.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Abstraction\\IServices\\IAuthenticationServices.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\IServices\\IAuthenticationServices.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Abstraction\\IServices\\IAuthenticationServices.cs",
+              "RelativeToolTip": "Core\\ECommerce.Abstraction\\IServices\\IAuthenticationServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:25:48.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationServices.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\AuthenticationServices.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\AuthenticationServices.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\AuthenticationServices.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\AuthenticationServices.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwBMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T14:43:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeToolTip": "ECommerce\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwHcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:27:26.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
